@@ -1,2 +1,3 @@
 # Responsive-Portfolio2
-second attempt
+
+Portfolio project building on the basic portfolio, making it responsive and adding media queries.
